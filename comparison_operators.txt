@@ -1,0 +1,1 @@
+with '==' we can compare the value of two elements and with '===' even the type of the values will be compared.
