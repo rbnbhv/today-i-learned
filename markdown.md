@@ -15,5 +15,3 @@ Man kann auch mehrere Buchstaben benutzen[^note].
 ### Links
 
 [Hier ist ein Inline-Link](https://www.google.com)
-
- 
