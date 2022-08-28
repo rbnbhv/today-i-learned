@@ -1,4 +1,3 @@
-## What i learned
+### This is my personal learning lab
 
-- Entity vs. Repository
-- comparison operators ('==' vs. '===')
+Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
