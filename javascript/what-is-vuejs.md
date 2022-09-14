@@ -1,6 +1,8 @@
 ## What in a nutshell?
 
 ### VueJS is a JS Framwork 
+  - Core feature:
+    - declarative Rendering (Means That How html Look like Based on JavaScript State, so When the state Change, the html Updates automatically
 
 #### advantages vs other framworks:
   - Progressivity 
