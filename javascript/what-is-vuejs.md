@@ -1,4 +1,4 @@
-## What in a nutshell?
+## What is VueJS in a nutshell?
 
 ### VueJS is a JS Framwork 
   - Core feature:
