@@ -16,5 +16,3 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 - wie funktioniert eine APi (Rest - APi)
 - nfs (network file system)
 - was macht der composer
-- was ist ein Repository
-- Wie kann ich in einer .MD datei eine Codepassage einfügen?
