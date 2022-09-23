@@ -3,8 +3,7 @@
 Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
 
 ## ToDo
-- Was ist twigJS (wird in der SW6 administartion verwendet)
-- Was ist ein Interface
+- Was ist twigJS (wird in der SW6 administartion verwendet
 - Was macht die services.xml und wie funktioniert sie
 - Regular Expressions
 - Fehlercodes (404, 501, 200 etc)
