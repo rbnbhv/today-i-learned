@@ -4,7 +4,7 @@
 git checkout -b feature/123-your-feature-branch
 git stash pop
 git add .
-git commit -m ‘changes’
+git commit -m 'changes'
 git push origin feature/123-your-feature-branch
 git checkout develop
 ```
