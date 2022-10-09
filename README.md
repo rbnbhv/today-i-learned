@@ -5,3 +5,4 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 ## ToDo
 - Preventing events from triggering again
 - using CURL
+- fix why product indexing is always running in sw6 backend 
