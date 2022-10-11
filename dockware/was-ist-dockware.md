@@ -23,6 +23,7 @@ Es werden hierfür drei Images von Dockware bereitgestellt:
 ## Advanced Start:
 - Es wird ein neues Projekt angelegt, in der wir nur die Datei: „docker-compose.yml“ erstellen. Diese sieht wie folgt aus:
 
+```
 version: "3"
 
 services:
@@ -38,7 +39,7 @@ networks:
 networks:
 web:
 external: false
-
+```
 - Über den Befehl „docker-compose up -d“ im Projektverzeichnis lässt sich dockware nun starten. Es wird das Image aus dem „docker-compose.yml“ File gelesen.
 
 
