@@ -8,7 +8,7 @@ The five principles for object oriented programing and software design
 * Open Closed Principle (OCP)
 - Das OCP beschäftigt sich mit der Erweiterbarkeit von bestehender Software.
   „Module sollten sowohl offen (für Erweiterungen) als auch verschlossen (für Modifikationen) sein.“
-- Mit Modulen sind hier Software-Einheiten gemeint, bei welchen es sich sowohl um Module als auch Klassen, Methode etc. handeln kann.
+- Mit Modulen sind hier Software-Einheiten gemeint, bei welchen es sich sowohl um Module als auch Klassen, Methoden etc. handeln kann.
 - Eine Erweiterung im Sinne des Open-Closed-Prinzips ist beispielsweise die Vererbung. Diese verändert das vorhandene Verhalten der Einheit nicht, erweitert aber die Einheit um zusätzliche Funktionen oder Daten.
 
 * Liskov Substitution Principle (LSP)
