@@ -20,4 +20,5 @@ php bin/console debug:router
 ```
 
 #### Hint:
-- if you add the path e.g. ```/edit_user``` to access_control, it automatically involves ```/edit_user{id}```  
+- if you add the path e.g. ```/edit_user``` to access_control, it automatically involves ```/edit_user{id}```
+- add role in the User database like: ```["firstname"]```
