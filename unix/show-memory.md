@@ -7,4 +7,5 @@
 - The df command, on the other hand, displays the free space.
 
 ``` du -sh . ```
+
 ``` df ```
