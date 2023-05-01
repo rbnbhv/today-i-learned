@@ -3,3 +3,5 @@
 ```RequestTTY yes```
 
 ```RemoteCommand cd html/shopware/ && $SHELL -i```
+
+- If the command "RequstTTY yes" is not passed, the message: no job control can appear.
