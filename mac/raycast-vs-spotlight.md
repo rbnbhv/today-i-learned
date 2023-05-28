@@ -10,6 +10,7 @@
 
 # Raycast Disadvantages
 
+
 - Not integrated into macOS, requires separate installation
 - Possibly less intuitive for users accustomed to Spotlight
 - Some advanced features may have a learning curve
