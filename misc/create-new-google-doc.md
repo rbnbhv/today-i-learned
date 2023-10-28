@@ -6,3 +6,4 @@ There's a way that lets you easily create new new GSuite artifacts, for easy boo
 * Google Sheets: https://sheet.new
 * Google Form: https://form.new
 * Google Slideshow: https://slide.new
+
